@@ -1,4 +1,4 @@
-pin=1234
+pin=2580
 amount=5000
 pin_number=int(input("enter the pin_number:"))
 if pin_number==pin:
